@@ -1,0 +1,15 @@
+D:\visual stdio\IMP Task 1\Working with class\bin\Debug\net6.0\Working with class.exe
+D:\visual stdio\IMP Task 1\Working with class\bin\Debug\net6.0\Working with class.deps.json
+D:\visual stdio\IMP Task 1\Working with class\bin\Debug\net6.0\Working with class.runtimeconfig.json
+D:\visual stdio\IMP Task 1\Working with class\bin\Debug\net6.0\Working with class.dll
+D:\visual stdio\IMP Task 1\Working with class\bin\Debug\net6.0\Working with class.pdb
+D:\visual stdio\IMP Task 1\Working with class\obj\Debug\net6.0\Working with class.csproj.AssemblyReference.cache
+D:\visual stdio\IMP Task 1\Working with class\obj\Debug\net6.0\Working with class.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual stdio\IMP Task 1\Working with class\obj\Debug\net6.0\Working with class.AssemblyInfoInputs.cache
+D:\visual stdio\IMP Task 1\Working with class\obj\Debug\net6.0\Working with class.AssemblyInfo.cs
+D:\visual stdio\IMP Task 1\Working with class\obj\Debug\net6.0\Working with class.csproj.CoreCompileInputs.cache
+D:\visual stdio\IMP Task 1\Working with class\obj\Debug\net6.0\Working with class.dll
+D:\visual stdio\IMP Task 1\Working with class\obj\Debug\net6.0\refint\Working with class.dll
+D:\visual stdio\IMP Task 1\Working with class\obj\Debug\net6.0\Working with class.pdb
+D:\visual stdio\IMP Task 1\Working with class\obj\Debug\net6.0\Working with class.genruntimeconfig.cache
+D:\visual stdio\IMP Task 1\Working with class\obj\Debug\net6.0\ref\Working with class.dll
