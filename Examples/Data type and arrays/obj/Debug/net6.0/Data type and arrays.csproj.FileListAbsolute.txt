@@ -1,0 +1,15 @@
+D:\visual stdio\IMP Task 1\Data type and arrays\bin\Debug\net6.0\Data type and arrays.exe
+D:\visual stdio\IMP Task 1\Data type and arrays\bin\Debug\net6.0\Data type and arrays.deps.json
+D:\visual stdio\IMP Task 1\Data type and arrays\bin\Debug\net6.0\Data type and arrays.runtimeconfig.json
+D:\visual stdio\IMP Task 1\Data type and arrays\bin\Debug\net6.0\Data type and arrays.dll
+D:\visual stdio\IMP Task 1\Data type and arrays\bin\Debug\net6.0\Data type and arrays.pdb
+D:\visual stdio\IMP Task 1\Data type and arrays\obj\Debug\net6.0\Data type and arrays.csproj.AssemblyReference.cache
+D:\visual stdio\IMP Task 1\Data type and arrays\obj\Debug\net6.0\Data type and arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual stdio\IMP Task 1\Data type and arrays\obj\Debug\net6.0\Data type and arrays.AssemblyInfoInputs.cache
+D:\visual stdio\IMP Task 1\Data type and arrays\obj\Debug\net6.0\Data type and arrays.AssemblyInfo.cs
+D:\visual stdio\IMP Task 1\Data type and arrays\obj\Debug\net6.0\Data type and arrays.csproj.CoreCompileInputs.cache
+D:\visual stdio\IMP Task 1\Data type and arrays\obj\Debug\net6.0\Data type and arrays.dll
+D:\visual stdio\IMP Task 1\Data type and arrays\obj\Debug\net6.0\refint\Data type and arrays.dll
+D:\visual stdio\IMP Task 1\Data type and arrays\obj\Debug\net6.0\Data type and arrays.pdb
+D:\visual stdio\IMP Task 1\Data type and arrays\obj\Debug\net6.0\Data type and arrays.genruntimeconfig.cache
+D:\visual stdio\IMP Task 1\Data type and arrays\obj\Debug\net6.0\ref\Data type and arrays.dll
