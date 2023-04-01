@@ -1,0 +1,15 @@
+D:\visual stdio\IMP Task 1\statements and operation with text\bin\Debug\net6.0\statements and operation with text.exe
+D:\visual stdio\IMP Task 1\statements and operation with text\bin\Debug\net6.0\statements and operation with text.deps.json
+D:\visual stdio\IMP Task 1\statements and operation with text\bin\Debug\net6.0\statements and operation with text.runtimeconfig.json
+D:\visual stdio\IMP Task 1\statements and operation with text\bin\Debug\net6.0\statements and operation with text.dll
+D:\visual stdio\IMP Task 1\statements and operation with text\bin\Debug\net6.0\statements and operation with text.pdb
+D:\visual stdio\IMP Task 1\statements and operation with text\obj\Debug\net6.0\statements and operation with text.csproj.AssemblyReference.cache
+D:\visual stdio\IMP Task 1\statements and operation with text\obj\Debug\net6.0\statements and operation with text.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual stdio\IMP Task 1\statements and operation with text\obj\Debug\net6.0\statements and operation with text.AssemblyInfoInputs.cache
+D:\visual stdio\IMP Task 1\statements and operation with text\obj\Debug\net6.0\statements and operation with text.AssemblyInfo.cs
+D:\visual stdio\IMP Task 1\statements and operation with text\obj\Debug\net6.0\statements and operation with text.csproj.CoreCompileInputs.cache
+D:\visual stdio\IMP Task 1\statements and operation with text\obj\Debug\net6.0\statements and operation with text.dll
+D:\visual stdio\IMP Task 1\statements and operation with text\obj\Debug\net6.0\refint\statements and operation with text.dll
+D:\visual stdio\IMP Task 1\statements and operation with text\obj\Debug\net6.0\statements and operation with text.pdb
+D:\visual stdio\IMP Task 1\statements and operation with text\obj\Debug\net6.0\statements and operation with text.genruntimeconfig.cache
+D:\visual stdio\IMP Task 1\statements and operation with text\obj\Debug\net6.0\ref\statements and operation with text.dll
